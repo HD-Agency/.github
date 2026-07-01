@@ -45,7 +45,8 @@ Our workflow usually includes:
 
 ## Connect With Us
 
-- Website: https://webhd.vn  
+- Homepage: https://webhd.vn
+- Website Design: https://webhd.vn/thiet-ke-website/
 - Contact: https://webhd.vn/lien-he/  
 - Portfolio: https://webhd.vn/du-an/  
 - Services: https://webhd.vn/dich-vu/
